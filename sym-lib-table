@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name CC1101RTK)(type Legacy)(uri ${KIPRJMOD}/additional/CC1101RTK.lib)(options "")(descr ""))
+)
